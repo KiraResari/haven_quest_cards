@@ -6,7 +6,7 @@ Have you ever sat down with your friends and wondered:
 * "Why did we want to go there again?"
 * "Did we already complete this scenario (and forgot to tick it off)?"
 
-The quest cards are a remedy for all this.
+The quest cards are intended as a remedy for all these.
 
 ## Usage
 
