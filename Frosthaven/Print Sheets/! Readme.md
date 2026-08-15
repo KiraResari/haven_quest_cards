@@ -1,1 +1,2 @@
-For best results, print these with "Fit to page"/"Shrink to fit" scaling.
+* For best results, print these with "Fit to page"/"Shrink to fit" scaling
+* Flip on long side
